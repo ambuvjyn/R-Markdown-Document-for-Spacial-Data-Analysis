@@ -19,7 +19,7 @@ library(SensoMineR)
 
 ```{r, echo=FALSE, warning=FALSE}
 #Let’s import the data using read command.
-appearance <- read.csv("C:/Users/BSL CTCRI/Downloads/SD.csv")
+appearance <- read.csv("appearance.csv")
 
 appearance
 
